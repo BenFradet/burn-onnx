@@ -136,6 +136,7 @@ pub mod modulo;
 pub mod non_max_suppression;
 pub mod nonzero;
 pub mod one_hot;
+pub mod one_hot_encoder;
 pub mod or;
 pub mod pad;
 pub mod padding;
